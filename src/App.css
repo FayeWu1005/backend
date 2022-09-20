@@ -1,0 +1,18 @@
+body{
+  background: #cfe8fc;
+}
+
+h2{
+  text-align: center;
+}
+
+.news-img{
+  height: 160px;
+  width: 263px;
+}
+
+.tweet-rank{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
